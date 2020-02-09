@@ -4,8 +4,8 @@ import React from 'react';
 const Navigation = () => {
 
     return(
-        <nav>
-            <p>SignOut</p>
+        <nav style={{display : 'flex', 'justifyContent' : 'flex-end'}}>
+            <p className='f3 link dim black underline p3 pointer'>SignOut</p>
         </nav>
     );
 }
