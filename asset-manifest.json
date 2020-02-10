@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FaceRecog/static/css/main.0e54fe86.chunk.css",
+    "main.js": "/FaceRecog/static/js/main.e8798577.chunk.js",
+    "main.js.map": "/FaceRecog/static/js/main.e8798577.chunk.js.map",
+    "runtime-main.js": "/FaceRecog/static/js/runtime-main.969ce57c.js",
+    "runtime-main.js.map": "/FaceRecog/static/js/runtime-main.969ce57c.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/FaceRecog/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2e9efd58.chunk.js": "/FaceRecog/static/js/2.2e9efd58.chunk.js",
+    "static/js/2.2e9efd58.chunk.js.map": "/FaceRecog/static/js/2.2e9efd58.chunk.js.map",
+    "index.html": "/FaceRecog/index.html",
+    "precache-manifest.36b9280c032e27564aab35729e83fe2d.js": "/FaceRecog/precache-manifest.36b9280c032e27564aab35729e83fe2d.js",
+    "service-worker.js": "/FaceRecog/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/FaceRecog/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.0e54fe86.chunk.css.map": "/FaceRecog/static/css/main.0e54fe86.chunk.css.map",
+    "static/js/2.2e9efd58.chunk.js.LICENSE.txt": "/FaceRecog/static/js/2.2e9efd58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.969ce57c.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2e9efd58.chunk.js",
+    "static/css/main.0e54fe86.chunk.css",
+    "static/js/main.e8798577.chunk.js"
+  ]
+}
